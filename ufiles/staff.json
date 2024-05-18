@@ -1,0 +1,27 @@
+[
+    {
+        "point": "Moscow",
+        "number": 123,
+        "type": "Boeing 737"
+    },
+    {
+        "point": "SPb",
+        "number": 456,
+        "type": "Airbus A320"
+    },
+    {
+        "point": "Sochi",
+        "number": 789,
+        "type": "Sukhoi Superjet 100"
+    },
+    {
+        "point": "Kazahstan",
+        "number": 76,
+        "type": "Kaz-25"
+    },
+    {
+        "point": "Japan",
+        "number": 2,
+        "type": "Ht-3"
+    }
+]
